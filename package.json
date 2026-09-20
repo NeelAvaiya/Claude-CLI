@@ -16,5 +16,12 @@
     "@types/node": "^26.6.2",
     "tsx": "^4.23.14",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@types/figlet": "^1.7.0",
+    "boxen": "^8.0.1",
+    "chalk": "^6.0.0",
+    "figlet": "^1.11.4",
+    "ora": "^9.4.1"
   }
 }
